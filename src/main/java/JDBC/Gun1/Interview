@@ -1,0 +1,10 @@
+JDBC nedir ?
+
+veri tabanlarini automation yapmama yardimci oluyor.
+Sorgularimi gönderiyorum, gelen sonuclarla, UI daki
+gözüken sonuclari karsilastiriyorum
+
+JDBC yi nasil kullanirsin ?
+URL, username ve password vererek bir connection olustururum.
+Bu connection üzerinde statement olusturarak sorgularimi calistiririm
+Sonuclari ResultSet atarak kullanirim
